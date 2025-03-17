@@ -1,7 +1,7 @@
 import os
 
-result_path = '/DATA_EDS2/zhangzz2401/zhangzz2401/OpenLane-V2-master/mapless/topll_dire_result2.txt'
-annotation_path = '/DATA_EDS2/zhangzz2401/zhangzz2401/OpenLane-V2-master/mapless/lr_annotation_comp.txt'
+result_path = './dataset/VQA/topll_dire_result_gpt4o.txt'
+annotation_path = './dataset/VQA_annotation.txt'
 
 with open(result_path, "r") as f:
     results = f.read()

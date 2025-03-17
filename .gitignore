@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.pkl
+*.7z
+*.ipynb
+dataset/output_json
+dataset/VQA
 dataset/*.pkl
 # C extensions
 *.so
