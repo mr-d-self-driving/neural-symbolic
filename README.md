@@ -43,9 +43,9 @@ https://github.com/user-attachments/assets/dddde21a-5ce3-4324-8fef-e3eb531a40d0
 
 ## 📌 TODO List
 - [x] Project Page Setup 
+- [x] Example Data
 - [x] vec VQA task test & Evaluation
 - [ ] other VQA tasks & Evaluation
-- [ ] Example Data
 - [ ] Environment Preparation
 - [ ] Code Generation Tutorial
 - [ ] Full Test Tutorial
